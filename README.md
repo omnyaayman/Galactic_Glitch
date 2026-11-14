@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,20,30&height=220&section=header&text=TERRATWIN%20AI&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=%F0%9F%AA%90%20Planetary%20Geospatial%20AI%20%26%20Earth%20Analog%20Discovery&descFontSize=16&descAlignY=64&descAlign=50" width="100%" alt="TerraTwin AI Header"/>
+# 🪐 TERRATWIN AI
+### 🛰️ Planetary Geospatial Intelligence & Earth Analog Discovery
 
 <!-- Team Galactic Glitch Animated Typing -->
 <br/>
@@ -17,8 +17,7 @@
   <img src="https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 </p>
 
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Divider"/>
+---
 
 </div>
 
@@ -112,8 +111,5 @@ python run_app.py
 
 ### 🛸 Engineered by Team Galactic Glitch
 *Pioneering Planetary Geospatial Data & Earth Analog Discovery*
-
-<!-- Animated Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,20,30&height=100&section=footer" width="100%" alt="Footer Wave"/>
 
 </div>
